@@ -54,7 +54,7 @@ const RegisterScreen = () => {
 
 			<Form onSubmit={submitHandler}>
 				<Form.Group controlId='name' className='my-3'>
-					<Form.Label>className</Form.Label>
+					<Form.Label>Name</Form.Label>
 					<Form.Control
 						type='text'
 						placeholder='Enter name'
